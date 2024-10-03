@@ -14,10 +14,7 @@ Download the adapter_config.json and copy abd replace it in  joy-caption-alpha-t
 
 
 
-
-
-
-
+Manual install:-
 
 
 git clone https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two
