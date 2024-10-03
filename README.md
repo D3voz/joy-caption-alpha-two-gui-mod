@@ -6,7 +6,7 @@ Installation-
 Use one click installer-
 
 Just download and click on the one click installer.
-Download the adapter_config.json and copy abd replace it in  joy-caption-alpha-twoc\cgrkzexw-599808\text_model
+Download the adapter_config.json and copy and replace it in  joy-caption-alpha-twoc\cgrkzexw-599808\text_model
 
 
 
