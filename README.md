@@ -3,6 +3,23 @@ joy-caption-alpha-two  gui mod
 
 Installation-
 
+Use one click installer-
+
+Just download and click on the one click installer.
+Download the adapter_config.json and copy abd replace it in  joy-caption-alpha-twoc\cgrkzexw-599808\text_model
+
+
+
+
+
+
+
+
+
+
+
+
+
 git clone https://huggingface.co/spaces/fancyfeast/joy-caption-alpha-two
 
 cd joy-caption-alpha-two
