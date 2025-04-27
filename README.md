@@ -5,7 +5,7 @@ Installation-
 
 Use one click installer-
 
-Just download and click on the one click installer.
+Just download the JoyCaptionCustomInstaller.exe and install from it.
 If you want to use the 4-bit model remane the adapter_config_4bit to adapter_config inside joy-caption-alpha-twoc\cgrkzexw-599808\text_model
 
 
