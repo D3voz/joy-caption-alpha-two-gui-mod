@@ -6,7 +6,7 @@ Installation-
 Use one click installer-
 
 Just download and click on the one click installer.
-Download the adapter_config.json and copy and replace it in  joy-caption-alpha-twoc\cgrkzexw-599808\text_model
+If you want to use the 4-bit model remane the adapter_config_4bit to adapter_config inside joy-caption-alpha-twoc\cgrkzexw-599808\text_model
 
 
 
@@ -25,16 +25,13 @@ python -m venv venv
 
 venv\Scripts\activate
 
-pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
 
-pip install -r requirements.txt
+pip install -r requirements_new.txt
 
-pip install protobuf
 
-pip install --upgrade PyQt5
 
 Running:- 
 
 activate venv
 
-python caption_gui.py
+python Run_gui.py
